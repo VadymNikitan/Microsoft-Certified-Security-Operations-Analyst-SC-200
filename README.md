@@ -17,19 +17,6 @@ Microsoft Defender for Endpoint
 Kusto Query Language (KQL)
 MITRE ATT&CK
 
-Case Studies
-Case	Topic	Status
-001	Disabled Account Authentication	✅ Completed
-002	Impossible Travel	⏳ Planned
-003	Storm-2755 – Payroll Pirate	⏳ Planned
-
-Repository Structure
-Cases/
-KQL/
-Templates/
-Images/
-README.md
-
 About This Project
 
 This repository documents my journey of developing practical Security Operations Center (SOC) investigation skills using Microsoft security technologies.
