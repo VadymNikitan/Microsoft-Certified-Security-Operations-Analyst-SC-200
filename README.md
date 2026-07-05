@@ -1,4 +1,4 @@
-# SOC-Investigation-Casebook
+# VadymNikitan
 A growing collection of Microsoft Sentinel and Microsoft Defender XDR investigation case studies based on real-world attack scenarios, Microsoft Threat Intelligence research, and the MITRE ATT&CK framework.
 
 Objectives
