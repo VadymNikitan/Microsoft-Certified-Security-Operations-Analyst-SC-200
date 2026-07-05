@@ -1,60 +1,90 @@
-# Hello, I'm Vadym Nikitan
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Vadym Nikitan 
+<a href="https://www.linkedin.com/in/vadym-nikitan-0969b7363/"> <img src="https://img.shields.io/badge/-LinkedIn-0072B1?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a Microsoft Certified Security Operations Analyst (SC-200) with a strong interest in Microsoft Security technologies, Security Operations, and threat hunting. I have built hands-on experience through Microsoft Learn, personal labs, TryHackMe, and self-developed SOC investigation projects using Microsoft Sentinel and Microsoft Defender XDR. I am currently seeking an opportunity to begin my career as a SOC Analyst where I can contribute, continue learning, and grow within a modern Security Operations Center.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+To continuously develop practical Security Operations skills by investigating real-world attack scenarios, creating KQL detection logic, and documenting incident investigation playbooks based on Microsoft Security technologies and the MITRE ATT&CK framework.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+| Skill | Associated Project |
+|--------------------------------|--------------------------------|
+| Microsoft Sentinel Investigation | SOC Investigation Casebook |
+| Microsoft Defender XDR | SOC Investigation Casebook |
+| Microsoft Entra ID Investigation |  SOC Investigation Casebook |
+| Threat Hunting with KQL | KQL Query Library (coming soon) |
+| MITRE ATT&CK Mapping |  SOC Investigation Casebook |
+| Incident Investigation | SOC Investigation Casebook |
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+#  Technologies & Tools
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+### Microsoft Security
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+- Microsoft Sentinel
+- Microsoft Defender XDR
+- Microsoft Defender for Endpoint
+- Microsoft Defender for Cloud
+- Microsoft Defender for Cloud Apps
+- Microsoft Entra ID
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+### Investigation & Threat Hunting
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+- Kusto Query Language (KQL)
+- Microsoft Threat Intelligence
+- VirusTotal
+- CyberChef
+
+### Operating Systems
+
+- Windows
+- Linux
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<div> 
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/40171548/2D3E54EF0AD92012?sharingId=C25B2B54E9C03532"> <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals_(AZ--900)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /> </a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/40171548/A845C8745F7C1F51?sharingId=C25B2B54E9C03532"> <img src="https://img.shields.io/badge/Microsoft-Security_Compliance_&_Identity_(SC--900)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /> </a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/40171548/D631282E9383953?sharingId=C25B2B54E9C03532"> <img src="https://img.shields.io/badge/Microsoft-Security_Operations_Analyst_(SC--200)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /> </a>
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+# Current Projects
+
+### SOC Investigation Casebook
+
+A growing collection of Microsoft Sentinel and Microsoft Defender XDR investigation case studies based on:
+
+- Microsoft Threat Intelligence reports
+- MITRE ATT&CK
+- Microsoft Security documentation
+- Real-world attack scenarios
+
+Each investigation includes:
+
+- Investigation workflow
+- Detection logic
+- Sample KQL queries
+- Response recommendations
+- False positives
+- Lessons learned
+
+- ###KQL Query Library
+
+A collection of practical Microsoft Sentinel hunting and investigation queries organized by attack technique and investigation scenario.
+
+# Currently Learning
+
+- TryHackMe SOC Level 1
+- Threat Hunting
+- Advanced Microsoft Sentinel
+- Incident Response
+- Microsoft Security Operations
+
+# Note
+
+The investigation case studies and KQL queries in this repository are intended for learning purposes and are based on publicly available Microsoft documentation, MITRE ATT&CK, and threat intelligence reports.
+
+The KQL queries should be considered investigation examples and starting points that can be adapted for specific production environments.
+
+## Connect with Me
+
+- LinkedIn <a href="https://www.linkedin.com/in/vadym-nikitan-0969b7363/"> <img src="https://img.shields.io/badge/-LinkedIn-0072B1?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+- Email
