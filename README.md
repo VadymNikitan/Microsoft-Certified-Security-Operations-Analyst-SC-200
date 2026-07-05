@@ -1,7 +1,12 @@
-# Hello, I'm Vadym Nikitan 
-<a href="https://www.linkedin.com/in/vadym-nikitan-0969b7363/"> <img src="https://img.shields.io/badge/-LinkedIn-0072B1?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+# Hello, I'm Vadym Nikitan <a href="https://www.linkedin.com/in/vadym-nikitan-0969b7363/"> <img src="https://img.shields.io/badge/-LinkedIn-0072B1?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
-I am a Microsoft Certified Security Operations Analyst (SC-200) with a strong interest in Microsoft Security technologies, Security Operations, and threat hunting. I have built hands-on experience through Microsoft Learn, personal labs, TryHackMe, and self-developed SOC investigation projects using Microsoft Sentinel and Microsoft Defender XDR. I am currently seeking an opportunity to begin my career as a SOC Analyst where I can contribute, continue learning, and grow within a modern Security Operations Center.
+**Microsoft Certified Security Operations Analyst (SC-200)** <a href="https://learn.microsoft.com/api/credentials/share/en-us/40171548/D631282E9383953?sharingId=C25B2B54E9C03532"> <img src="https://img.shields.io/badge/Microsoft-Security_Operations_Analyst_(SC--200)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /> </a>
+
+I am a Microsoft Certified Security Operations Analyst (SC-200) with a strong interest in Microsoft Security technologies, Security Operations, and threat hunting.
+
+I have built hands-on experience through Microsoft Learn, personal labs, TryHackMe, and self-developed SOC investigation projects using Microsoft Sentinel and Microsoft Defender XDR.
+
+I am currently seeking an opportunity to begin my career as a SOC Analyst where I can contribute, continue learning, and grow within a modern Security Operations Center.
 
 ## Objective
 To continuously develop practical Security Operations skills by investigating real-world attack scenarios, creating KQL detection logic, and documenting incident investigation playbooks based on Microsoft Security technologies and the MITRE ATT&CK framework.
@@ -16,7 +21,7 @@ To continuously develop practical Security Operations skills by investigating re
 | MITRE ATT&CK Mapping |  SOC Investigation Casebook |
 | Incident Investigation | SOC Investigation Casebook |
 
-#  Technologies & Tools
+## Technologies & Tools
 
 ### Microsoft Security
 
@@ -46,7 +51,7 @@ To continuously develop practical Security Operations skills by investigating re
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/40171548/D631282E9383953?sharingId=C25B2B54E9C03532"> <img src="https://img.shields.io/badge/Microsoft-Security_Operations_Analyst_(SC--200)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /> </a>
 </div>
 
-# Current Projects
+## Current Projects
 
 ### SOC Investigation Casebook
 
@@ -66,11 +71,11 @@ Each investigation includes:
 - False positives
 - Lessons learned
 
-- ###KQL Query Library
+### KQL Query Library
 
 A collection of practical Microsoft Sentinel hunting and investigation queries organized by attack technique and investigation scenario.
 
-# Currently Learning
+## Currently Learning
 
 - TryHackMe SOC Level 1
 - Threat Hunting
@@ -78,7 +83,7 @@ A collection of practical Microsoft Sentinel hunting and investigation queries o
 - Incident Response
 - Microsoft Security Operations
 
-# Note
+## Note
 
 The investigation case studies and KQL queries in this repository are intended for learning purposes and are based on publicly available Microsoft documentation, MITRE ATT&CK, and threat intelligence reports.
 
@@ -86,5 +91,8 @@ The KQL queries should be considered investigation examples and starting points 
 
 ## Connect with Me
 
-- LinkedIn <a href="https://www.linkedin.com/in/vadym-nikitan-0969b7363/"> <img src="https://img.shields.io/badge/-LinkedIn-0072B1?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-- Email
+<a href="https://www.linkedin.com/in/vadym-nikitan-0969b7363/">
+<img src="https://img.shields.io/badge/-LinkedIn-0072B1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+📧 Email: vnikitan@gmail.com
